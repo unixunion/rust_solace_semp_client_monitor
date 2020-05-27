@@ -3,10 +3,10 @@
 ## Properties
 Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
-**channels_uri** | **String** | The URI of this DmrClusterLink&#39;s channels collection. | [optional] [default to null]
-**remote_addresses_uri** | **String** | The URI of this DmrClusterLink&#39;s remoteAddresses collection. | [optional] [default to null]
-**tls_trusted_common_names_uri** | **String** | The URI of this DmrClusterLink&#39;s tlsTrustedCommonNames collection. | [optional] [default to null]
-**uri** | **String** | The URI of this DmrClusterLink object. | [optional] [default to null]
+**channels_uri** | **String** | The URI of this Link&#39;s collection of Cluster Link Channels objects. | [optional] [default to null]
+**remote_addresses_uri** | **String** | The URI of this Link&#39;s collection of Remote Address objects. | [optional] [default to null]
+**tls_trusted_common_names_uri** | **String** | The URI of this Link&#39;s collection of Trusted Common Name objects. | [optional] [default to null]
+**uri** | **String** | The URI of this Link object. | [optional] [default to null]
 
 [[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
 

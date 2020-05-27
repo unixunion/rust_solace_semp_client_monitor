@@ -5,7 +5,7 @@ Name | Type | Description | Notes
 ------------ | ------------- | ------------- | -------------
 **acl_profile_name** | **String** | The ACL Profile of the Client Username. | [optional] [default to null]
 **client_profile_name** | **String** | The Client Profile of the Client Username. | [optional] [default to null]
-**client_username** | **String** | The value of the Client Username. | [optional] [default to null]
+**client_username** | **String** | The name of the Client Username. | [optional] [default to null]
 **dynamic** | **bool** | Indicates whether the Client Username was dynamically created based on remote authorization data. | [optional] [default to null]
 **enabled** | **bool** | Indicates whether the Client Username is enabled. | [optional] [default to null]
 **guaranteed_endpoint_permission_override_enabled** | **bool** | Indicates whether the guaranteed endpoint permission override is enabled for the Client Username. | [optional] [default to null]
